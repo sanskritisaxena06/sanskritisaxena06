@@ -68,7 +68,6 @@ Power BI, Advanced SQL, Python for Data Analytics, React, and Backend Developmen
 <img height="45" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img height="45" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img height="45" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img height="45" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -88,17 +87,6 @@ Power BI, Advanced SQL, Python for Data Analytics, React, and Backend Developmen
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=merko&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true"/>
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF671F&height=120&section=footer"/>
