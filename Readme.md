@@ -35,7 +35,7 @@ Power BI, Advanced SQL, Python for Data Analytics, React, and Backend Developmen
 - 🎨 Fun Fact: I enjoy designing creative presentations and exploring new ideas.
 - 🏃 LinkedIn Profile - https://www.linkedin.com/in/sanskriti-saxena06/
 - 📧 Email - saxenasanskriti5@gmail.com
-- 🌐 Portfolio - *Coming Soon*
+- 🌐 Portfolio - https://sanskritisaxena06.github.io/portfolio/
 
 <br/>
 
