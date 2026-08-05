@@ -13,7 +13,7 @@
 
 <br/>
 
-I am a Bachelor of Computer Applications (BCA) student with a strong interest in Data Analytics, Web Development, and software development. I enjoy solving real-world problems by building efficient, scalable, and user-friendly applications while continuously improving my technical skills.
+I am Sanskriti Saxena with a strong interest in Data Analytics, Web Development, and software development. I enjoy solving real-world problems by building efficient, scalable, and user-friendly applications while continuously improving my technical skills.
 
 My core interests include Data Analytics, Frontend Development, Database Management, and Software Development. I believe in continuous learning and love exploring new technologies to create impactful solutions.
 
@@ -25,9 +25,10 @@ Power BI, Advanced SQL, Python for Data Analytics, React, and Backend Developmen
 
 <br/>
 
-## 🎓 Bachelor of Computer Applications (BCA) | 2023 - 2026
+## Key Points 
 
-- 🎓 BCA Student (2023–2026)
+- 🎓 Pursuing Master of Computer Applications (AI & ML) (2026 - Present)
+- 🎓 Bachelor of Computer Applications (2023–2026)
 - 💼 Looking for Internship & Job Opportunities
 - 💻 Passionate about Data Analytics & Web Development
 - 📊 Skilled in Python, SQL, Excel, Power BI, HTML, CSS & JavaScript
