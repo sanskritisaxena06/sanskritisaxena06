@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF671F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+SANSKRITI+SAXENA;I'M+A+BCA+STUDENT;I+AM+FROM+INDIA;Passionate+About+Data+Analytics+%26+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+SANSKRITI+SAXENA;I+AM+FROM+INDIA;Passionate+About+Data+Analytics+%26+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Sanskriti Saxena</h1>
+<h1 align="center">Hi , I'm Sanskriti Saxena</h1>
 
 <p align="center">I'm a Passionate</p>
 <p align="center">Data Analytics Enthusiast || Web Developer || Problem Solver || Tech Learner</p>
